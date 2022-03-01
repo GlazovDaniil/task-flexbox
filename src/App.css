@@ -19,10 +19,8 @@ body,
     align-self: flex-end;
 }
 .flex-container > div{
-    /**height: 100px;
-    width: 100px;*/
-    height: 33%;
-    width: 14.5%;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
     background-color: #DAA520;
 }
